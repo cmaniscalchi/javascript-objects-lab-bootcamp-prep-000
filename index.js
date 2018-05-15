@@ -1,1 +1,1 @@
-var Objects = { recipes: object}
+var recipes = { [object]: 'oatmeal' }
