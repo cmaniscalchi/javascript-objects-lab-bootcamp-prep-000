@@ -1,2 +1,2 @@
-ver recipes [
+var Objects { recipes: }
   ]
